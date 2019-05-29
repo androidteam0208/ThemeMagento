@@ -1,0 +1,1 @@
+/home/tranloc/webs/magento/lib/web/mage/adminhtml/browser.js

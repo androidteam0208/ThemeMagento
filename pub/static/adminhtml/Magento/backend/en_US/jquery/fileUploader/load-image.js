@@ -1,0 +1,1 @@
+/home/tranloc/webs/magento/lib/web/jquery/fileUploader/load-image.js
